@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.35.0
+gradio>=4.0.0
+sentence-transformers>=2.2.2
+pymongo>=4.5.0
+certifi>=2023.7.22
+accelerate>=0.24.0
