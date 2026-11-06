@@ -26,7 +26,7 @@ It allows developers to offer modern Python, JavaScript, or Rust code to channel
 ---
 
 ## Tech Stack
-- **Language:** Python 3.10+ (`app.py`)
+- **Language:** Python 3.10+ (`main.py`)
 - **Models:** `all-MiniLM-L6-v2` (Embeddings) & `Qwen/Qwen2.5-Coder-1.5B-Instruct` (LLM)
 - **Database / Vector Search:** MongoDB Atlas (`pymongo`)
 - **Frameworks:** PyTorch, Hugging Face `transformers`, `sentence-transformers`
